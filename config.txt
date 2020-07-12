@@ -1,5 +1,4 @@
-token=2cde3d41e9f4ebf91319dd486d20d20d99fca9128e61a21907cb19cf4c8cd5e41880ce4cdfebe9f4016bf
-rand_delay_min=1
+token=988c944a1cd4e89f1c8478acca70da1ab2311b83c87ab7d362bbcb17bb371f8c416d7eb9c93cecd713025
 rand_delay_max=5
 isthirdpython=0
 accountid=501852253
