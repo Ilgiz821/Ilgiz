@@ -1,4 +1,4 @@
-token=vk1.a.FAoNfZmO62nrCUtLk9Z2G_zbCcuZdst_-UqijgmfX4kjzVWkt6Hgx867hx9PKRn3QQyTHt39dmnEtO5OM5iUZxi0QNFBJyaEThRA7A7QL1EkM8zJRkBcc6KrykGZN9GdFRgNcXhbDYADkBqlvhy6cJplfTcNX9DO0v_EJ59-vs4LWwMCIa-2Vbms96ycAPcv
+token=IdOsRq6vmB3iApnwPtTE
 rand_delay_min=1
 rand_delay_max=5
 isthirdpython=0
